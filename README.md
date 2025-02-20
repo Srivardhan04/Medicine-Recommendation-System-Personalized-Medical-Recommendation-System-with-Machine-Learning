@@ -1,0 +1,2 @@
+# Medicine-Recommendation-System-Personalized-Medical-Recommendation-System-with-Machine-Learning
+This Medicine Recommendation System leverages Machine Learning to provide personalized medicine recommendations based on patient symptoms, medical history, and other health parameters. The system aims to enhance healthcare accessibility and improve treatment accuracy by suggesting suitable medications tailored to individual needs.
